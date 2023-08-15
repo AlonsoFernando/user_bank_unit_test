@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Pages.InventoryPage.open_inventory" />
+          <option value="Pages.InventoryPage.InventoryPage.driver" />
+          <option value="bool.driver" />
+          <option value="bool.are_all_product_images_displayed" />
+          <option value="test_1_login.timesleep" />
+          <option value="str.click" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
